@@ -1,0 +1,14 @@
+BeginText=PLAY
+PauseTitel=Pause
+TimeTitel=GAME OVER
+ShareRevieText=Share to continue
+VideoReviveText=Watch AD to continue
+JumpText=SKIP>>
+ChallengeText=CHALLENGE
+BackText=BACK>>
+DescriptText=Description
+LuckyCardText=Change your card to a lucky number.
+CutText=Throw away the card you don't want.
+DiscardText=Clear the card you want.
+RankText=RANK
+PropText=.
